@@ -1,0 +1,8 @@
+﻿  201811291View.cpp
+C:\Users\user\source\repos\201811291\201811291\201811291View.cpp(251,36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\201811291\201811291\201811291View.cpp(252,27): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\201811291\201811291\201811291View.cpp(254,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\201811291\201811291\201811291View.cpp(264,44): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainFrm.cpp
+  코드를 생성하고 있습니다...
+  201811291.vcxproj -> C:\Users\user\source\repos\201811291\Debug\201811291.exe
